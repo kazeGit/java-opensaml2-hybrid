@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/doc/RELEASE-NOTES.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/opensaml/common/SAMLObjectBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/opensaml/common/binding/artifact/BasicSAMLArtifactMapEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/opensaml/saml2/metadata/provider/FileBackedHTTPMetadataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/opensaml/saml2/metadata/provider/HTTPMetadataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-openws/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../java-openws/src/main/java/org/opensaml/util/resource/HttpResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../samlsinglesignon/samlsinglesignon/web/src/de/hybris/platform/samlsinglesignon/RedirectionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/commerce-suite-6.5.0.0-20170612.151054-22842/hybris/bin/platform/ext/platformservices/src/de/hybris/platform/jobs/RemoveItemsJobPerformable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
